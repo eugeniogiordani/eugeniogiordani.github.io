@@ -76,6 +76,11 @@ a:focus {
   color: none;
 }
 
+img {
+  height:50%;
+  width: 50%;
+}
+
 .btn,
 .btn:focus {
   outline: none !important;
@@ -1137,3 +1142,6 @@ tbody > tr:hover {
   .table tr td:before { font-weight: bold; left: 6px; padding-right: 10px; position: absolute; text-align: left; top: 6px; white-space: nowrap; width: 45%; }
   .table tr td:before { content: attr(data-title); }
 }
+
+
+
