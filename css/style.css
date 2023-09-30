@@ -50,7 +50,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #00bbf0;
+  color: #808080;
 }
 
 .heading_container p {
@@ -189,7 +189,7 @@ img {
 }
 
 .custom_nav-container .nav_search-btn:hover {
-  color: #00bbf0;
+  color: #808080;
 }
 
 .custom_nav-container .navbar-toggler {
@@ -278,7 +278,7 @@ img {
 }
 
 .slider_section .detail-box {
-  color: #00204a;
+  color: #808080;
 }
 
 .slider_section .detail-box h1 {
@@ -311,7 +311,7 @@ img {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #00bbf0;
+  background-color: #808080;
   color: #000000;
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -400,7 +400,7 @@ img {
 .slider_section .carousel-indicators li.active {
   width: 20px;
   height: 20px;
-  background-color: #00bbf0;
+  background-color: #808080;
 }
 
 .service_section {
@@ -454,12 +454,12 @@ img {
 }
 
 .service_section .box .detail-box a {
-  color: #00204a;
+  color: #808080;
   font-weight: 600;
 }
 
 .service_section .box .detail-box a:hover {
-  color: #00bbf0;
+  color: #909090;
 }
 
 .service_section .btn-box {
@@ -932,7 +932,7 @@ img {
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
 .client_section .owl-carousel .owl-nav .owl-next:hover {
-  color: #00204a;
+  color: #808080;
 }
 
 /* client section end */
