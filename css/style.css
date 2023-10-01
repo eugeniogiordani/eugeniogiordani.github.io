@@ -132,7 +132,7 @@ img {
 
 .sub_page .hero_area {
   min-height: auto;
-  background: linear-gradient(130deg, #d8d8d8, #d8d8d8);
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -189,7 +189,7 @@ img {
 }
 
 .custom_nav-container .nav_search-btn:hover {
-  color: #808080;
+  color: #ffffff;
 }
 
 .custom_nav-container .navbar-toggler {
@@ -208,7 +208,7 @@ img {
   display: block;
   width: 35px;
   height: 4px;
-  background-color: #ffffff;
+  background-color: #000000;
   margin: 7px 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -278,7 +278,7 @@ img {
 }
 
 .slider_section .detail-box {
-  color: #808080;
+  color: #ffffff;
 }
 
 .slider_section .detail-box h1 {
@@ -311,8 +311,8 @@ img {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #808080;
-  color: #000000;
+  background-color: #ffffff;
+  color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -320,13 +320,13 @@ img {
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 .slider_section .detail-box .btn-box .btn2 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #000000;
+  background-color: #ffffff;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
